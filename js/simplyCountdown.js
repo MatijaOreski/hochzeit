@@ -122,11 +122,10 @@
                 minutes: 0,
                 seconds: 0,
                 words: {
-                    days: 'dani',
-                    hours: 'sati',
-                    minutes: 'minute',
-                    seconds: 'sekunde',
-                    pluralLetter: 's'
+                    days: 'tage',
+                    hours: 'stunden',
+                    minutes: 'minuten',
+                    seconds: 'sekunden'
                 },
                 plural: true,
                 inline: false,
